@@ -1,0 +1,13 @@
+.mainsection{
+  height: 100vh;
+  background-image: url(E:\React\reset-tailwind2\src\assets\Pictures\home-cover-photo.jpg);
+  background-size: cover;
+}
+
+.bgColor {
+  background-color: (255 117 101/var(--tw-bg-opacity))
+}
+
+.hamburger-react{
+  z-index: 10 !important;
+}
